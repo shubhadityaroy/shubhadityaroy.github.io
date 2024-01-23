@@ -1,8 +1,9 @@
 ---
 title: Training Offerings
-date: 2024-01-23 12:18:00 +0530
+date: 2024-01-23 12:21:00 +0530
 categories: [Training, GenAI]
 tags: [ai, tutorial]
+pin: true
 ---
 
 # Corporate Training Program: Advanced Generative AI

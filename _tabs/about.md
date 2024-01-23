@@ -6,16 +6,37 @@ order: 1
 
 # About Me
 
-I am the co-founder and Director of **Nodusgen AI Solutions**, a company dedicated to providing cutting-edge AI solutions across diverse industries.
+Hi! I am Shubhaditya Roy, the co-founder and Director of Nodusgen AI Solutions. At Nodusgen AI Solutions, we specialize in pioneering AI solutions that drive innovation and success across diverse industries. 
+With a passion for staying at the forefront of technology, I also offer bespoke corporate training sessions designed to empower your team with the latest advancements.
 
-## My Experience
+## Expertise and Experience
 
-With a strong foundation in data science and analytics from my previous role as a **Senior Decision Analyst** at **Colgate-Palmolive**, I bring a wealth of expertise in generative AI solutions, sales trends analysis, and market insights. I specialize in **Market Mix Modeling**, data analysis, and visualization.
+My journey includes a pivotal role as a **Senior Decision Analyst** at **Colgate-Palmolive**, where I honed my skills in generative AI solutions, sales trends analysis, and market insights. Specializing in **Generative AI**, Market Mix Modeling, data analysis, and visualization, I bring a wealth of experience to help businesses thrive in today's data-driven landscape.
 
-## My Education and Certifications
+## Education and Mission
 
-I hold a **Master's degree** in **Data Science** and certifications in **Machine Learning** and **SAS**. My mission is to help businesses harness the power of AI to drive innovation, make data-driven decisions, and excel in their respective fields.
+Armed with a **Master's degree** in **Data Science** and certifications in **Machine Learning** and **SAS**, my mission is clear – to assist businesses in leveraging the power of AI for innovation and informed decision-making.
 
-## Let's Connect
+# Elevate Your Team with AI Training
 
-Let's explore the potential of AI-driven solutions for your business. Feel free to connect and discuss how **Nodusgen AI Solutions** can propel your organization into a brighter future!
+## Tailored Corporate Training
+
+Embark on a transformative learning journey with our corporate training sessions. Delve into:
+
+- Introduction to Generative AI
+- Large Language Models (LLMs) and their applications
+- Project-focused learning, e.g., Generative AI for Market Analysis
+- Ethical considerations in AI
+
+Equip your team to navigate the evolving landscape of AI seamlessly.
+
+# Consultations for Success
+
+Seeking personalized insights for your business? Engage in consultations covering:
+
+- Implementing generative AI for specific business challenges
+- Leveraging Machine Learning to Propel Business Growth
+
+# Let's Connect
+
+Ready to elevate your team's capabilities or explore AI solutions for your business? Connect with me on LinkedIn or drop me an email at [your.email@example.com](mailto:your.email@example.com). Let's embark on a journey of innovation and success together!

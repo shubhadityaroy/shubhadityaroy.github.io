@@ -39,4 +39,4 @@ Seeking personalized insights for your business? Engage in consultations coverin
 
 # Let's Connect
 
-Ready to elevate your team's capabilities or explore AI solutions for your business? Connect with me on LinkedIn or drop me an email at [your.email@example.com](mailto:your.email@example.com). Let's embark on a journey of innovation and success together!
+Ready to elevate your team's capabilities or explore AI solutions for your business? Connect with me on LinkedIn or drop me an email at [corptrainer.roy@gmail.com](mailto:corptrainer.roy@gmail.com). Let's embark on a journey of innovation and success together!

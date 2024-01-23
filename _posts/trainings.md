@@ -1,7 +1,7 @@
 ---
 title: Training Offerings
-date: 2024-01-23 11:46:30 +/-0530
-categories: [Training, GenAI]
+date: 2024-01-23 11:46:30 +0530
+categories: [training, genai]
 tags: [ai, tutorial]     # TAG names should always be lowercase
 pin: true
 ---
